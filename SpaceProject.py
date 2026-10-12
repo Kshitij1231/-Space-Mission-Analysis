@@ -94,7 +94,7 @@ for column in df.columns:
 # In[18]:
 
 
-df=df.drop(columns = "Unnamed: 0")
+df = df.drop(columns="Unnamed: 0", errors="ignore")
 
 
 # In[19]:
