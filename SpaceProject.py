@@ -26,7 +26,7 @@ sns.set_style("whitegrid")
 # In[79]:
 
 
-df = pd.read_csv(r"C:\Users\sudhi\Desktop\Data Science\Python\Space Mission Analysis-20260805T105916Z-1-001\Beginner - Space Mission Analysis\space_mission_data.csv",index_col = 0)
+df = pd.read_csv(r""C:\Users\kshit\OneDrive\space_mission_dataset.csv"",index_col = 0)
 
 
 # In[9]:
